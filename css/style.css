@@ -1,0 +1,16 @@
+@import "normalize.css";
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('PT Sans'), local('PTSans-Regular'), url(https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
+}
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #ffffff;
+}
+header {
+  background: green;
+  color: #ffffff;
+}
